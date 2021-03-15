@@ -1,0 +1,25 @@
+html {
+  font-family: Verdana;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+footer {
+  text-align: right;
+}
+.cta {
+  font-size: 16px;
+  color: aquamarine;
+}
